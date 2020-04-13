@@ -1,5 +1,5 @@
 # Censor That Word! Program
 
-## Emulating how forbidden words are being censored as users using any chat.
+## Emulating how blocked words are being censored as users using any chat.
 
-This code is another programming practice in Python to avoid my brain from rusting.
+This program searches the blocked words inside what ever words the user entered, and converts them into '\*' asterisks depending on how long each word is.
